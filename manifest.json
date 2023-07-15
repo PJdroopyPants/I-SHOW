@@ -1,7 +1,6 @@
 {
- "background_color": "#212D69",
- "display": "fullscreen",
  "theme_color": "#212D69",
+ "display": "fullscreen",
  "name": "Sutherland Presses I-SHOW",
  "icons": [
   {
@@ -40,5 +39,6 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm"
+ "start_url": "index.htm",
+ "background_color": "#212D69"
 }
