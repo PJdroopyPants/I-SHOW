@@ -223,7 +223,7 @@ HotspotPanoramaOverlayArea_5FBE0F80_4E0D_461E_41CA_C863B0F99972.toolTip = I-PRES
 HotspotPanoramaOverlayArea_9BD01586_892A_4331_41C0_942E5D5F185E.toolTip = I-PRESS® Retrofit
 HotspotPanoramaOverlayArea_9BD08587_892A_433F_41D0_A875A0DFF17F.toolTip = I-PRESS® Simulator
 HotspotPanoramaOverlayArea_5D6BE649_4E1D_C62F_41BB_6E9AE66C8166.toolTip = I-PRESS® Simulator
-overlay_86768BAB_A80C_06B1_41DE_8C9D4CEB495B.toolTip = Press Service
+overlay_A3C483F2_B06F_64B5_41D3_7E7212AFCF20.toolTip = Press Service
 overlay_8C9DC06B_A804_01B1_4186_9CFE6B227716.toolTip = Request for Press Service
 overlay_65F42772_89FE_4E95_41CD_F705FC1709CD.toolTip = Sutherland Presses Website
 overlay_9F624FF0_8A48_74C7_41CC_EED465E0A6C4.toolTip = Sutherland Presses Website
@@ -261,12 +261,12 @@ overlay_C1B904E7_EC0B_3533_41E7_54B49E0E364C.url = https://www.sutherlandpresses
 overlay_9F9C8AB2_8A48_9F48_41CB_229BADC2204E.url = https://www.sutherlandpresses.com/
 overlay_9F318A7D_8A4B_FFB9_41D6_6030F758E44A.url = https://www.sutherlandpresses.com/
 overlay_65F42772_89FE_4E95_41CD_F705FC1709CD.url = https://www.sutherlandpresses.com/
-overlay_9F5D4515_A804_0391_41E0_1B38654E133A.url = https://www.sutherlandpresses.com/i-serve-i-show
+overlay_A10CDDBD_B066_BCA9_41D5_467CF13A4DD9.url = https://www.sutherlandpresses.com/i-serve-i-show
 overlay_94CF2D61_A804_03B1_41D7_84134AF8C338.url = https://www.sutherlandpresses.com/i-serve-i-show
 overlay_9FE5D4CD_A804_02F6_41E0_0A6786CA365E.url = https://www.sutherlandpresses.com/i-serve-i-show
 overlay_8C9DC06B_A804_01B1_4186_9CFE6B227716.url = https://www.sutherlandpresses.com/i-serve-i-show
-overlay_86768BAB_A80C_06B1_41DE_8C9D4CEB495B.url = https://www.sutherlandpresses.com/i-serve-i-show
-overlay_1C302AFF_AF97_D41E_41E1_1B50D77B38EA.url = //www.youtube.com/embed/tGJ9w1-FD-s?autoplay=1&T=3.4
+overlay_A3C483F2_B06F_64B5_41D3_7E7212AFCF20.url = https://www.sutherlandpresses.com/i-serve-i-show
+overlay_A10C5DBD_B066_BCA9_41E1_E411751246F0.url = //www.youtube.com/embed/tGJ9w1-FD-s?autoplay=1&T=3.4
 
 ## Media
 
@@ -280,11 +280,11 @@ audiores_F186DE0A_EBA8_7845_41E6_4C1B2F5FB2C7.mp3Url = media/audio_FE77923E_EBA9
 ### Floorplan
 
 ### Image
-imlevel_AFD6828F_AFBB_3654_41D4_35B5F60717D1.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_0.jpg
-imlevel_AFD6828F_AFBB_3654_41D5_0D638FDCD525.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_1.jpg
-imlevel_AFD68290_AFBB_364C_41CD_988D2A6DE8FB.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_2.jpg
-imlevel_AFD68290_AFBB_364C_41DB_A4F52F5457A7.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_3.jpg
-imlevel_AFD68291_AFBB_364C_41D1_9D2F0FD362CA.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_4.jpg
+imlevel_95595703_B07E_ED55_41E5_D0F192B70441.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_0.jpg
+imlevel_95594703_B07E_ED55_41D1_8637350539BC.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_1.jpg
+imlevel_95597703_B07E_ED55_41CD_9D15A16D2055.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_2.jpg
+imlevel_95596703_B07E_ED55_41E1_5B9A2B61B955.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_3.jpg
+imlevel_95591704_B07E_ED53_41CF_DA0500118348.url = media/map_D554FBE7_A81C_0270_41C0_3D07BAFF9199_en_4.jpg
 imlevel_931478D5_A80C_0291_41A4_F7C5AF928450.url = media/popup_2CEA8FD1_3283_9419_41BD_6D9CB2AD3750_en_0_0.jpg
 imlevel_933458D8_A80C_029F_41C6_E3BBE995559E.url = media/popup_2CEA8FD1_3283_9419_41BD_6D9CB2AD3750_en_0_1.jpg
 imlevel_933478D9_A80C_0291_41D8_D470FAFF173F.url = media/popup_2CEA8FD1_3283_9419_41BD_6D9CB2AD3750_en_0_2.jpg
@@ -1217,9 +1217,9 @@ panorama_B89E3664_A804_01B7_41D6_50191DE75387.subtitle = Mechanical
 panorama_B8B94F75_A80C_3F91_41DF_9722E5B0FB97.subtitle = Mechanical
 panorama_A21FD508_B3C4_376A_41DC_4F04CFE9F701.subtitle = Mechanical
 panorama_B95A43E0_A804_06AE_41D5_F78E9C5E6FAE.subtitle = North
-panorama_BEBAA32E_A804_07B2_41E1_97047F0842A9.subtitle = Press-Service
+panorama_A3C573F2_B06F_64B5_41DB_194BE113279B.subtitle = Press-Service
 panorama_B8AA213B_A804_0392_41C7_928604FC226E.subtitle = South
-panorama_BDC89E7D_A80C_0196_41E2_3C719C10DB98.subtitle = Video Library
+panorama_A1032DBD_B066_BCA9_41E4_FEE2100A2A8E.subtitle = Video Library
 panorama_4C00224E_5915_03AB_41D5_AD90E3B66056.subtitle = West Lobby
 panorama_C1B394E5_EC0B_3537_41D9_DEFB4555B331.subtitle = West Lobby
 panorama_4C762F50_590B_01B7_41D0_02ADF4DBF121.subtitle = West Lobby
@@ -1305,8 +1305,8 @@ map_D554FBE7_A81C_0270_41C0_3D07BAFF9199.label = MiniMap
 panorama_D1D5ED75_A804_0644_41D2_9A865ED96E8E.label = North
 panorama_C799BD3C_A804_07D0_41E1_409F82F54F13.label = Office Entrance
 album_E537F158_CAF7_44D5_41DB_97745A13EAE6.label = Photo Album BrochurePicture
-panorama_BEBAA32E_A804_07B2_41E1_97047F0842A9.label = SUTHERLAND
-panorama_BDC89E7D_A80C_0196_41E2_3C719C10DB98.label = SUTHERLAND
+panorama_A3C573F2_B06F_64B5_41DB_194BE113279B.label = SUTHERLAND
+panorama_A1032DBD_B066_BCA9_41E4_FEE2100A2A8E.label = SUTHERLAND
 panorama_C78493D9_A804_0250_41D4_EB29AD15A7B9.label = South
 
 ## Skin
