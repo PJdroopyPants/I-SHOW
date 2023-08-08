@@ -2,8 +2,8 @@
  "start_url": "index.htm",
  "background_color": "#212D69",
  "name": "Sutherland Presses I-SHOW",
- "theme_color": "#212D69",
  "display": "fullscreen",
+ "theme_color": "#212D69",
  "icons": [
   {
    "type": "image/png",
